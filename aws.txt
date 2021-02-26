@@ -1,0 +1,11 @@
+national-parks.cowvdac3trtu.us-east-1.rds.amazonaws.com
+
+Password: finalproject!
+
+Bucket name: su-linterhell-nationalpark
+
+Park.csv: https://su-linterhell-nationalpark.s3.amazonaws.com/parks.csv
+
+Species.csv: https://su-linterhell-nationalpark.s3.amazonaws.com/species.csv
+
+#Note these csv files will be updated within the next few days 
