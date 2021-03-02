@@ -1,0 +1,675 @@
+Park Name,Category,count,Nativeness
+Acadia National Park,Amphibian,12,Native
+Acadia National Park,Amphibian,1,Not Native
+Acadia National Park,Bird,231,Native
+Acadia National Park,Bird,117,Not Native
+Acadia National Park,Fish,14,Native
+Acadia National Park,Fish,14,Not Native
+Acadia National Park,Mammal,41,Native
+Acadia National Park,Mammal,12,Not Native
+Acadia National Park,Reptile,6,Native
+Acadia National Park,Reptile,4,Not Native
+Acadia National Park,Vascular Plant,885,Native
+Acadia National Park,Vascular Plant,337,Not Native
+Arches National Park,Amphibian,7,Native
+Arches National Park,Amphibian,1,Not Native
+Arches National Park,Bird,201,Native
+Arches National Park,Bird,4,Not Native
+Arches National Park,Fish,3,Native
+Arches National Park,Fish,8,Not Native
+Arches National Park,Mammal,57,Native
+Arches National Park,Mammal,1,Not Native
+Arches National Park,Reptile,20,Native
+Arches National Park,Vascular Plant,651,Native
+Arches National Park,Vascular Plant,94,Not Native
+Badlands National Park,Amphibian,8,Native
+Badlands National Park,Bird,226,Native
+Badlands National Park,Bird,4,Not Native
+Badlands National Park,Fish,17,Native
+Badlands National Park,Fish,3,Not Native
+Badlands National Park,Insect,1,Native
+Badlands National Park,Mammal,60,Native
+Badlands National Park,Mammal,3,Not Native
+Badlands National Park,Reptile,13,Native
+Badlands National Park,Vascular Plant,454,Native
+Badlands National Park,Vascular Plant,89,Not Native
+Big Bend National Park,Amphibian,11,Native
+Big Bend National Park,Amphibian,2,Not Native
+Big Bend National Park,Bird,409,Native
+Big Bend National Park,Bird,4,Not Native
+Big Bend National Park,Fish,41,Native
+Big Bend National Park,Fish,9,Not Native
+Big Bend National Park,Mammal,83,Native
+Big Bend National Park,Mammal,4,Not Native
+Big Bend National Park,Nonvascular Plant,47,Native
+Big Bend National Park,Reptile,58,Native
+Big Bend National Park,Reptile,4,Not Native
+Big Bend National Park,Vascular Plant,1459,Native
+Big Bend National Park,Vascular Plant,89,Not Native
+Biscayne National Park,Amphibian,5,Native
+Biscayne National Park,Amphibian,3,Not Native
+Biscayne National Park,Bird,196,Native
+Biscayne National Park,Bird,34,Not Native
+Biscayne National Park,Fish,108,Native
+Biscayne National Park,Fish,7,Not Native
+Biscayne National Park,Insect,8,Native
+Biscayne National Park,Insect,3,Not Native
+Biscayne National Park,Invertebrate,34,Native
+Biscayne National Park,Mammal,1,Not Native
+Biscayne National Park,Reptile,33,Native
+Biscayne National Park,Reptile,6,Not Native
+Biscayne National Park,Vascular Plant,367,Native
+Biscayne National Park,Vascular Plant,187,Not Native
+Black Canyon of the Gunnison National Park,Amphibian,2,Native
+Black Canyon of the Gunnison National Park,Bird,171,Native
+Black Canyon of the Gunnison National Park,Bird,4,Not Native
+Black Canyon of the Gunnison National Park,Fish,7,Native
+Black Canyon of the Gunnison National Park,Fish,8,Not Native
+Black Canyon of the Gunnison National Park,Mammal,66,Native
+Black Canyon of the Gunnison National Park,Mammal,1,Not Native
+Black Canyon of the Gunnison National Park,Reptile,11,Native
+Black Canyon of the Gunnison National Park,Vascular Plant,718,Native
+Black Canyon of the Gunnison National Park,Vascular Plant,117,Not Native
+Bryce Canyon National Park,Amphibian,4,Native
+Bryce Canyon National Park,Bird,212,Native
+Bryce Canyon National Park,Bird,5,Not Native
+Bryce Canyon National Park,Mammal,74,Native
+Bryce Canyon National Park,Mammal,1,Not Native
+Bryce Canyon National Park,Reptile,13,Native
+Bryce Canyon National Park,Vascular Plant,883,Native
+Bryce Canyon National Park,Vascular Plant,92,Not Native
+Canyonlands National Park,Amphibian,6,Native
+Canyonlands National Park,Amphibian,1,Not Native
+Canyonlands National Park,Bird,217,Native
+Canyonlands National Park,Bird,3,Not Native
+Canyonlands National Park,Fish,9,Native
+Canyonlands National Park,Fish,24,Not Native
+Canyonlands National Park,Mammal,75,Native
+Canyonlands National Park,Mammal,1,Not Native
+Canyonlands National Park,Reptile,22,Native
+Canyonlands National Park,Vascular Plant,774,Native
+Canyonlands National Park,Vascular Plant,91,Not Native
+Capitol Reef National Park,Amphibian,6,Native
+Capitol Reef National Park,Bird,241,Native
+Capitol Reef National Park,Bird,7,Not Native
+Capitol Reef National Park,Fish,7,Native
+Capitol Reef National Park,Fish,7,Not Native
+Capitol Reef National Park,Mammal,71,Native
+Capitol Reef National Park,Mammal,1,Not Native
+Capitol Reef National Park,Reptile,21,Native
+Capitol Reef National Park,Vascular Plant,1060,Native
+Capitol Reef National Park,Vascular Plant,143,Not Native
+Carlsbad Caverns National Park,Amphibian,13,Native
+Carlsbad Caverns National Park,Amphibian,1,Not Native
+Carlsbad Caverns National Park,Bird,361,Native
+Carlsbad Caverns National Park,Bird,6,Not Native
+Carlsbad Caverns National Park,Fish,2,Native
+Carlsbad Caverns National Park,Fish,3,Not Native
+Carlsbad Caverns National Park,Mammal,78,Native
+Carlsbad Caverns National Park,Mammal,4,Not Native
+Carlsbad Caverns National Park,Reptile,62,Native
+Carlsbad Caverns National Park,Vascular Plant,882,Native
+Carlsbad Caverns National Park,Vascular Plant,59,Not Native
+Channel Islands National Park,Algae,61,Native
+Channel Islands National Park,Amphibian,3,Native
+Channel Islands National Park,Amphibian,1,Not Native
+Channel Islands National Park,Bird,350,Native
+Channel Islands National Park,Bird,7,Not Native
+Channel Islands National Park,Crab/Lobster/Shrimp,11,Native
+Channel Islands National Park,Fish,259,Native
+Channel Islands National Park,Insect,2,Native
+Channel Islands National Park,Invertebrate,195,Native
+Channel Islands National Park,Invertebrate,1,Not Native
+Channel Islands National Park,Mammal,42,Native
+Channel Islands National Park,Mammal,2,Not Native
+Channel Islands National Park,Nonvascular Plant,68,Native
+Channel Islands National Park,Reptile,11,Native
+Channel Islands National Park,Slug/Snail,33,Native
+Channel Islands National Park,Spider/Scorpion,1,Native
+Channel Islands National Park,Vascular Plant,595,Native
+Channel Islands National Park,Vascular Plant,222,Not Native
+Congaree National Park,Amphibian,38,Native
+Congaree National Park,Bird,193,Native
+Congaree National Park,Bird,5,Not Native
+Congaree National Park,Fish,62,Native
+Congaree National Park,Fish,1,Not Native
+Congaree National Park,Mammal,36,Native
+Congaree National Park,Mammal,3,Not Native
+Congaree National Park,Reptile,45,Native
+Congaree National Park,Reptile,2,Not Native
+Congaree National Park,Vascular Plant,782,Native
+Congaree National Park,Vascular Plant,74,Not Native
+Crater Lake National Park,Amphibian,16,Native
+Crater Lake National Park,Amphibian,1,Not Native
+Crater Lake National Park,Bird,244,Native
+Crater Lake National Park,Bird,3,Not Native
+Crater Lake National Park,Fish,2,Native
+Crater Lake National Park,Fish,7,Not Native
+Crater Lake National Park,Mammal,77,Native
+Crater Lake National Park,Mammal,3,Not Native
+Crater Lake National Park,Nonvascular Plant,1,Native
+Crater Lake National Park,Reptile,12,Native
+Crater Lake National Park,Vascular Plant,998,Native
+Crater Lake National Park,Vascular Plant,55,Not Native
+Cuyahoga Valley National Park,Amphibian,24,Native
+Cuyahoga Valley National Park,Bird,239,Native
+Cuyahoga Valley National Park,Bird,7,Not Native
+Cuyahoga Valley National Park,Crab/Lobster/Shrimp,7,Native
+Cuyahoga Valley National Park,Fish,70,Native
+Cuyahoga Valley National Park,Fish,3,Not Native
+Cuyahoga Valley National Park,Insect,198,Native
+Cuyahoga Valley National Park,Insect,3,Not Native
+Cuyahoga Valley National Park,Invertebrate,20,Native
+Cuyahoga Valley National Park,Invertebrate,1,Not Native
+Cuyahoga Valley National Park,Mammal,46,Native
+Cuyahoga Valley National Park,Mammal,1,Not Native
+Cuyahoga Valley National Park,Reptile,19,Native
+Cuyahoga Valley National Park,Reptile,4,Not Native
+Cuyahoga Valley National Park,Slug/Snail,10,Native
+Cuyahoga Valley National Park,Slug/Snail,1,Not Native
+Cuyahoga Valley National Park,Spider/Scorpion,2,Native
+Cuyahoga Valley National Park,Vascular Plant,963,Native
+Cuyahoga Valley National Park,Vascular Plant,270,Not Native
+Death Valley National Park,Amphibian,6,Native
+Death Valley National Park,Amphibian,2,Not Native
+Death Valley National Park,Bird,405,Native
+Death Valley National Park,Bird,11,Not Native
+Death Valley National Park,Fish,5,Native
+Death Valley National Park,Fish,2,Not Native
+Death Valley National Park,Mammal,56,Native
+Death Valley National Park,Mammal,5,Not Native
+Death Valley National Park,Reptile,37,Native
+Death Valley National Park,Reptile,1,Not Native
+Death Valley National Park,Vascular Plant,1083,Native
+Death Valley National Park,Vascular Plant,106,Not Native
+Denali National Park and Preserve,Amphibian,1,Native
+Denali National Park and Preserve,Bird,178,Native
+Denali National Park and Preserve,Fish,14,Native
+Denali National Park and Preserve,Mammal,41,Native
+Denali National Park and Preserve,Vascular Plant,796,Native
+Denali National Park and Preserve,Vascular Plant,22,Not Native
+Dry Tortugas National Park,Bird,210,Native
+Dry Tortugas National Park,Bird,71,Not Native
+Dry Tortugas National Park,Fish,3,Native
+Dry Tortugas National Park,Invertebrate,42,Native
+Dry Tortugas National Park,Mammal,1,Native
+Dry Tortugas National Park,Reptile,1,Native
+Dry Tortugas National Park,Vascular Plant,106,Native
+Dry Tortugas National Park,Vascular Plant,125,Not Native
+Everglades National Park,Amphibian,14,Native
+Everglades National Park,Amphibian,3,Not Native
+Everglades National Park,Bird,282,Native
+Everglades National Park,Bird,83,Not Native
+Everglades National Park,Fish,314,Native
+Everglades National Park,Fish,18,Not Native
+Everglades National Park,Mammal,25,Native
+Everglades National Park,Mammal,7,Not Native
+Everglades National Park,Reptile,50,Native
+Everglades National Park,Reptile,8,Not Native
+Everglades National Park,Vascular Plant,778,Native
+Everglades National Park,Vascular Plant,376,Not Native
+Gates Of The Arctic National Park and Preserve,Bird,134,Native
+Gates Of The Arctic National Park and Preserve,Fish,17,Native
+Gates Of The Arctic National Park and Preserve,Mammal,38,Native
+Gates Of The Arctic National Park and Preserve,Vascular Plant,681,Native
+Glacier Bay National Park and Preserve,Amphibian,4,Native
+Glacier Bay National Park and Preserve,Amphibian,1,Not Native
+Glacier Bay National Park and Preserve,Bird,251,Native
+Glacier Bay National Park and Preserve,Fish,328,Native
+Glacier Bay National Park and Preserve,Fish,3,Not Native
+Glacier Bay National Park and Preserve,Mammal,56,Native
+Glacier Bay National Park and Preserve,Nonvascular Plant,1,Native
+Glacier Bay National Park and Preserve,Reptile,1,Native
+Glacier Bay National Park and Preserve,Vascular Plant,702,Native
+Glacier Bay National Park and Preserve,Vascular Plant,67,Not Native
+Glacier National Park,Amphibian,6,Native
+Glacier National Park,Bird,272,Native
+Glacier National Park,Bird,5,Not Native
+Glacier National Park,Crab/Lobster/Shrimp,1,Native
+Glacier National Park,Fish,21,Native
+Glacier National Park,Fish,6,Not Native
+Glacier National Park,Fungi,245,Native
+Glacier National Park,Insect,40,Native
+Glacier National Park,Mammal,65,Native
+Glacier National Park,Mammal,1,Not Native
+Glacier National Park,Nonvascular Plant,397,Native
+Glacier National Park,Reptile,4,Native
+Glacier National Park,Slug/Snail,15,Native
+Glacier National Park,Slug/Snail,5,Not Native
+Glacier National Park,Vascular Plant,1114,Native
+Glacier National Park,Vascular Plant,142,Not Native
+Grand Canyon National Park,Amphibian,14,Native
+Grand Canyon National Park,Amphibian,1,Not Native
+Grand Canyon National Park,Bird,444,Native
+Grand Canyon National Park,Bird,6,Not Native
+Grand Canyon National Park,Fish,8,Native
+Grand Canyon National Park,Fish,20,Not Native
+Grand Canyon National Park,Insect,52,Native
+Grand Canyon National Park,Invertebrate,1,Not Native
+Grand Canyon National Park,Mammal,95,Native
+Grand Canyon National Park,Mammal,3,Not Native
+Grand Canyon National Park,Reptile,57,Native
+Grand Canyon National Park,Reptile,1,Not Native
+Grand Canyon National Park,Slug/Snail,2,Native
+Grand Canyon National Park,Spider/Scorpion,126,Native
+Grand Canyon National Park,Vascular Plant,1545,Native
+Grand Canyon National Park,Vascular Plant,193,Not Native
+Grand Teton National Park,Amphibian,5,Native
+Grand Teton National Park,Amphibian,1,Not Native
+Grand Teton National Park,Bird,243,Native
+Grand Teton National Park,Bird,5,Not Native
+Grand Teton National Park,Fish,13,Native
+Grand Teton National Park,Fish,7,Not Native
+Grand Teton National Park,Mammal,63,Native
+Grand Teton National Park,Mammal,1,Not Native
+Grand Teton National Park,Reptile,5,Native
+Grand Teton National Park,Vascular Plant,1253,Native
+Grand Teton National Park,Vascular Plant,153,Not Native
+Great Basin National Park,Amphibian,3,Native
+Great Basin National Park,Amphibian,1,Not Native
+Great Basin National Park,Bird,215,Native
+Great Basin National Park,Bird,3,Not Native
+Great Basin National Park,Fish,7,Native
+Great Basin National Park,Fish,4,Not Native
+Great Basin National Park,Insect,12,Native
+Great Basin National Park,Mammal,67,Native
+Great Basin National Park,Mammal,4,Not Native
+Great Basin National Park,Reptile,18,Native
+Great Basin National Park,Vascular Plant,761,Native
+Great Basin National Park,Vascular Plant,73,Not Native
+Great Sand Dunes National Park and Preserve,Amphibian,6,Native
+Great Sand Dunes National Park and Preserve,Bird,230,Native
+Great Sand Dunes National Park and Preserve,Bird,2,Not Native
+Great Sand Dunes National Park and Preserve,Fish,2,Native
+Great Sand Dunes National Park and Preserve,Fish,3,Not Native
+Great Sand Dunes National Park and Preserve,Insect,1,Native
+Great Sand Dunes National Park and Preserve,Mammal,60,Native
+Great Sand Dunes National Park and Preserve,Nonvascular Plant,1,Native
+Great Sand Dunes National Park and Preserve,Reptile,8,Native
+Great Sand Dunes National Park and Preserve,Vascular Plant,552,Native
+Great Sand Dunes National Park and Preserve,Vascular Plant,39,Not Native
+Great Smoky Mountains National Park,Amphibian,57,Native
+Great Smoky Mountains National Park,Bird,239,Native
+Great Smoky Mountains National Park,Bird,16,Not Native
+Great Smoky Mountains National Park,Fish,83,Native
+Great Smoky Mountains National Park,Fish,6,Not Native
+Great Smoky Mountains National Park,Insect,72,Native
+Great Smoky Mountains National Park,Insect,1,Not Native
+Great Smoky Mountains National Park,Invertebrate,2,Native
+Great Smoky Mountains National Park,Mammal,78,Native
+Great Smoky Mountains National Park,Mammal,9,Not Native
+Great Smoky Mountains National Park,Nonvascular Plant,480,Native
+Great Smoky Mountains National Park,Reptile,41,Native
+Great Smoky Mountains National Park,Vascular Plant,1580,Native
+Great Smoky Mountains National Park,Vascular Plant,424,Not Native
+Guadalupe Mountains National Park,Amphibian,10,Native
+Guadalupe Mountains National Park,Amphibian,1,Not Native
+Guadalupe Mountains National Park,Bird,271,Native
+Guadalupe Mountains National Park,Bird,1,Not Native
+Guadalupe Mountains National Park,Crab/Lobster/Shrimp,4,Native
+Guadalupe Mountains National Park,Fish,3,Not Native
+Guadalupe Mountains National Park,Fungi,65,Native
+Guadalupe Mountains National Park,Insect,79,Native
+Guadalupe Mountains National Park,Invertebrate,3,Native
+Guadalupe Mountains National Park,Mammal,74,Native
+Guadalupe Mountains National Park,Mammal,1,Not Native
+Guadalupe Mountains National Park,Nonvascular Plant,2,Native
+Guadalupe Mountains National Park,Reptile,56,Native
+Guadalupe Mountains National Park,Slug/Snail,53,Native
+Guadalupe Mountains National Park,Vascular Plant,973,Native
+Guadalupe Mountains National Park,Vascular Plant,45,Not Native
+Haleakala National Park,Amphibian,3,Not Native
+Haleakala National Park,Bird,21,Native
+Haleakala National Park,Bird,23,Not Native
+Haleakala National Park,Crab/Lobster/Shrimp,5,Native
+Haleakala National Park,Crab/Lobster/Shrimp,11,Not Native
+Haleakala National Park,Fish,6,Native
+Haleakala National Park,Fungi,54,Native
+Haleakala National Park,Insect,588,Native
+Haleakala National Park,Insect,369,Not Native
+Haleakala National Park,Invertebrate,17,Native
+Haleakala National Park,Invertebrate,19,Not Native
+Haleakala National Park,Mammal,2,Native
+Haleakala National Park,Mammal,13,Not Native
+Haleakala National Park,Nonvascular Plant,120,Native
+Haleakala National Park,Nonvascular Plant,1,Not Native
+Haleakala National Park,Reptile,1,Native
+Haleakala National Park,Reptile,9,Not Native
+Haleakala National Park,Slug/Snail,35,Native
+Haleakala National Park,Slug/Snail,9,Not Native
+Haleakala National Park,Spider/Scorpion,24,Native
+Haleakala National Park,Spider/Scorpion,21,Not Native
+Haleakala National Park,Vascular Plant,469,Native
+Haleakala National Park,Vascular Plant,497,Not Native
+Hawaii Volcanoes National Park,Amphibian,4,Not Native
+Hawaii Volcanoes National Park,Bird,37,Native
+Hawaii Volcanoes National Park,Bird,41,Not Native
+Hawaii Volcanoes National Park,Crab/Lobster/Shrimp,35,Native
+Hawaii Volcanoes National Park,Crab/Lobster/Shrimp,18,Not Native
+Hawaii Volcanoes National Park,Fish,4,Native
+Hawaii Volcanoes National Park,Insect,1018,Native
+Hawaii Volcanoes National Park,Insect,410,Not Native
+Hawaii Volcanoes National Park,Invertebrate,109,Native
+Hawaii Volcanoes National Park,Invertebrate,55,Not Native
+Hawaii Volcanoes National Park,Mammal,2,Native
+Hawaii Volcanoes National Park,Mammal,13,Not Native
+Hawaii Volcanoes National Park,Nonvascular Plant,111,Native
+Hawaii Volcanoes National Park,Nonvascular Plant,4,Not Native
+Hawaii Volcanoes National Park,Reptile,2,Native
+Hawaii Volcanoes National Park,Reptile,11,Not Native
+Hawaii Volcanoes National Park,Slug/Snail,64,Native
+Hawaii Volcanoes National Park,Slug/Snail,5,Not Native
+Hawaii Volcanoes National Park,Spider/Scorpion,39,Native
+Hawaii Volcanoes National Park,Spider/Scorpion,61,Not Native
+Hawaii Volcanoes National Park,Vascular Plant,421,Native
+Hawaii Volcanoes National Park,Vascular Plant,791,Not Native
+Hot Springs National Park,Amphibian,22,Native
+Hot Springs National Park,Bird,92,Native
+Hot Springs National Park,Bird,25,Not Native
+Hot Springs National Park,Fish,47,Native
+Hot Springs National Park,Fish,5,Not Native
+Hot Springs National Park,Mammal,31,Native
+Hot Springs National Park,Mammal,3,Not Native
+Hot Springs National Park,Reptile,48,Native
+Hot Springs National Park,Vascular Plant,915,Native
+Hot Springs National Park,Vascular Plant,230,Not Native
+Isle Royale National Park,Amphibian,11,Native
+Isle Royale National Park,Bird,256,Native
+Isle Royale National Park,Bird,4,Not Native
+Isle Royale National Park,Crab/Lobster/Shrimp,14,Native
+Isle Royale National Park,Fish,51,Native
+Isle Royale National Park,Fish,11,Not Native
+Isle Royale National Park,Invertebrate,21,Native
+Isle Royale National Park,Mammal,25,Native
+Isle Royale National Park,Mammal,1,Not Native
+Isle Royale National Park,Nonvascular Plant,1,Native
+Isle Royale National Park,Reptile,3,Native
+Isle Royale National Park,Vascular Plant,807,Native
+Isle Royale National Park,Vascular Plant,183,Not Native
+Joshua Tree National Park,Amphibian,5,Native
+Joshua Tree National Park,Bird,295,Native
+Joshua Tree National Park,Bird,5,Not Native
+Joshua Tree National Park,Fish,1,Not Native
+Joshua Tree National Park,Mammal,58,Native
+Joshua Tree National Park,Mammal,5,Not Native
+Joshua Tree National Park,Reptile,52,Native
+Joshua Tree National Park,Vascular Plant,828,Native
+Joshua Tree National Park,Vascular Plant,53,Not Native
+Katmai National Park and Preserve,Amphibian,1,Native
+Katmai National Park and Preserve,Bird,201,Native
+Katmai National Park and Preserve,Bird,2,Not Native
+Katmai National Park and Preserve,Fish,40,Native
+Katmai National Park and Preserve,Mammal,47,Native
+Katmai National Park and Preserve,Nonvascular Plant,2,Native
+Katmai National Park and Preserve,Vascular Plant,704,Native
+Katmai National Park and Preserve,Vascular Plant,16,Not Native
+Kenai Fjords National Park,Amphibian,1,Native
+Kenai Fjords National Park,Bird,142,Native
+Kenai Fjords National Park,Bird,1,Not Native
+Kenai Fjords National Park,Fish,40,Native
+Kenai Fjords National Park,Mammal,50,Native
+Kenai Fjords National Park,Mammal,3,Not Native
+Kenai Fjords National Park,Vascular Plant,628,Native
+Kenai Fjords National Park,Vascular Plant,29,Not Native
+Kobuk Valley National Park,Bird,125,Native
+Kobuk Valley National Park,Fish,26,Native
+Kobuk Valley National Park,Mammal,36,Native
+Kobuk Valley National Park,Vascular Plant,475,Native
+Lake Clark National Park and Preserve,Bird,180,Native
+Lake Clark National Park and Preserve,Bird,1,Not Native
+Lake Clark National Park and Preserve,Fish,54,Native
+Lake Clark National Park and Preserve,Fish,1,Not Native
+Lake Clark National Park and Preserve,Mammal,48,Native
+Lake Clark National Park and Preserve,Nonvascular Plant,1,Native
+Lake Clark National Park and Preserve,Vascular Plant,1112,Native
+Lake Clark National Park and Preserve,Vascular Plant,64,Not Native
+Lassen Volcanic National Park,Algae,1,Native
+Lassen Volcanic National Park,Amphibian,5,Native
+Lassen Volcanic National Park,Amphibian,1,Not Native
+Lassen Volcanic National Park,Bird,231,Native
+Lassen Volcanic National Park,Bird,11,Not Native
+Lassen Volcanic National Park,Crab/Lobster/Shrimp,11,Native
+Lassen Volcanic National Park,Fish,8,Not Native
+Lassen Volcanic National Park,Fungi,3,Native
+Lassen Volcanic National Park,Insect,7,Native
+Lassen Volcanic National Park,Invertebrate,10,Native
+Lassen Volcanic National Park,Mammal,74,Native
+Lassen Volcanic National Park,Mammal,2,Not Native
+Lassen Volcanic National Park,Nonvascular Plant,14,Native
+Lassen Volcanic National Park,Reptile,20,Native
+Lassen Volcanic National Park,Slug/Snail,3,Native
+Lassen Volcanic National Park,Vascular Plant,828,Native
+Lassen Volcanic National Park,Vascular Plant,67,Not Native
+Mammoth Cave National Park,Amphibian,31,Native
+Mammoth Cave National Park,Bird,205,Native
+Mammoth Cave National Park,Bird,4,Not Native
+Mammoth Cave National Park,Fish,114,Native
+Mammoth Cave National Park,Fish,4,Not Native
+Mammoth Cave National Park,Insect,19,Native
+Mammoth Cave National Park,Mammal,48,Native
+Mammoth Cave National Park,Mammal,4,Not Native
+Mammoth Cave National Park,Reptile,41,Native
+Mammoth Cave National Park,Vascular Plant,1358,Native
+Mammoth Cave National Park,Vascular Plant,222,Not Native
+Mesa Verde National Park,Amphibian,7,Native
+Mesa Verde National Park,Bird,230,Native
+Mesa Verde National Park,Bird,6,Not Native
+Mesa Verde National Park,Mammal,79,Native
+Mesa Verde National Park,Mammal,5,Not Native
+Mesa Verde National Park,Reptile,19,Native
+Mesa Verde National Park,Reptile,1,Not Native
+Mesa Verde National Park,Vascular Plant,766,Native
+Mesa Verde National Park,Vascular Plant,118,Not Native
+Mount Rainier National Park,Amphibian,16,Native
+Mount Rainier National Park,Bird,179,Native
+Mount Rainier National Park,Bird,7,Not Native
+Mount Rainier National Park,Fish,9,Native
+Mount Rainier National Park,Fish,7,Not Native
+Mount Rainier National Park,Fungi,1,Native
+Mount Rainier National Park,Insect,45,Native
+Mount Rainier National Park,Insect,1,Not Native
+Mount Rainier National Park,Mammal,66,Native
+Mount Rainier National Park,Mammal,3,Not Native
+Mount Rainier National Park,Reptile,5,Native
+Mount Rainier National Park,Vascular Plant,808,Native
+Mount Rainier National Park,Vascular Plant,152,Not Native
+North Cascades National Park,Amphibian,12,Native
+North Cascades National Park,Bird,222,Native
+North Cascades National Park,Bird,4,Not Native
+North Cascades National Park,Fish,29,Native
+North Cascades National Park,Fish,4,Not Native
+North Cascades National Park,Fungi,2,Native
+North Cascades National Park,Insect,313,Native
+North Cascades National Park,Insect,5,Not Native
+North Cascades National Park,Mammal,74,Native
+North Cascades National Park,Mammal,4,Not Native
+North Cascades National Park,Nonvascular Plant,187,Native
+North Cascades National Park,Reptile,8,Native
+North Cascades National Park,Spider/Scorpion,32,Native
+North Cascades National Park,Vascular Plant,1223,Native
+North Cascades National Park,Vascular Plant,232,Not Native
+Olympic National Park,Amphibian,13,Native
+Olympic National Park,Amphibian,1,Not Native
+Olympic National Park,Bird,304,Native
+Olympic National Park,Bird,5,Not Native
+Olympic National Park,Fish,90,Native
+Olympic National Park,Fish,5,Not Native
+Olympic National Park,Insect,77,Native
+Olympic National Park,Insect,2,Not Native
+Olympic National Park,Mammal,62,Native
+Olympic National Park,Mammal,9,Not Native
+Olympic National Park,Reptile,6,Native
+Olympic National Park,Vascular Plant,1066,Native
+Olympic National Park,Vascular Plant,248,Not Native
+Petrified Forest National Park,Amphibian,7,Native
+Petrified Forest National Park,Bird,242,Native
+Petrified Forest National Park,Bird,2,Not Native
+Petrified Forest National Park,Mammal,60,Native
+Petrified Forest National Park,Reptile,21,Native
+Petrified Forest National Park,Vascular Plant,459,Native
+Petrified Forest National Park,Vascular Plant,57,Not Native
+Pinnacles National Park,Amphibian,9,Native
+Pinnacles National Park,Amphibian,1,Not Native
+Pinnacles National Park,Bird,165,Native
+Pinnacles National Park,Bird,5,Not Native
+Pinnacles National Park,Crab/Lobster/Shrimp,1,Native
+Pinnacles National Park,Fish,1,Native
+Pinnacles National Park,Fish,4,Not Native
+Pinnacles National Park,Insect,67,Native
+Pinnacles National Park,Insect,1,Not Native
+Pinnacles National Park,Mammal,54,Native
+Pinnacles National Park,Mammal,6,Not Native
+Pinnacles National Park,Reptile,29,Native
+Pinnacles National Park,Slug/Snail,1,Native
+Pinnacles National Park,Vascular Plant,544,Native
+Pinnacles National Park,Vascular Plant,127,Not Native
+Redwood National Park,Amphibian,22,Native
+Redwood National Park,Amphibian,1,Not Native
+Redwood National Park,Bird,272,Native
+Redwood National Park,Bird,51,Not Native
+Redwood National Park,Fish,186,Native
+Redwood National Park,Fish,23,Not Native
+Redwood National Park,Mammal,107,Native
+Redwood National Park,Mammal,8,Not Native
+Redwood National Park,Reptile,32,Native
+Redwood National Park,Vascular Plant,944,Native
+Redwood National Park,Vascular Plant,285,Not Native
+Rocky Mountain National Park,Algae,49,Native
+Rocky Mountain National Park,Amphibian,5,Native
+Rocky Mountain National Park,Bird,268,Native
+Rocky Mountain National Park,Bird,4,Not Native
+Rocky Mountain National Park,Fish,8,Native
+Rocky Mountain National Park,Fish,4,Not Native
+Rocky Mountain National Park,Fungi,35,Native
+Rocky Mountain National Park,Insect,106,Native
+Rocky Mountain National Park,Mammal,68,Native
+Rocky Mountain National Park,Mammal,3,Not Native
+Rocky Mountain National Park,Nonvascular Plant,63,Native
+Rocky Mountain National Park,Reptile,3,Native
+Rocky Mountain National Park,Slug/Snail,2,Native
+Rocky Mountain National Park,Spider/Scorpion,21,Native
+Rocky Mountain National Park,Vascular Plant,942,Native
+Rocky Mountain National Park,Vascular Plant,97,Not Native
+Saguaro National Park,Amphibian,8,Native
+Saguaro National Park,Amphibian,1,Not Native
+Saguaro National Park,Bird,228,Native
+Saguaro National Park,Bird,6,Not Native
+Saguaro National Park,Fungi,1,Native
+Saguaro National Park,Mammal,72,Native
+Saguaro National Park,Mammal,3,Not Native
+Saguaro National Park,Reptile,55,Native
+Saguaro National Park,Vascular Plant,1191,Native
+Saguaro National Park,Vascular Plant,104,Not Native
+Sequoia and Kings Canyon National Parks,Amphibian,12,Native
+Sequoia and Kings Canyon National Parks,Amphibian,1,Not Native
+Sequoia and Kings Canyon National Parks,Bird,182,Native
+Sequoia and Kings Canyon National Parks,Bird,37,Not Native
+Sequoia and Kings Canyon National Parks,Fish,8,Native
+Sequoia and Kings Canyon National Parks,Fish,11,Not Native
+Sequoia and Kings Canyon National Parks,Mammal,77,Native
+Sequoia and Kings Canyon National Parks,Mammal,10,Not Native
+Sequoia and Kings Canyon National Parks,Reptile,24,Native
+Sequoia and Kings Canyon National Parks,Vascular Plant,1428,Native
+Sequoia and Kings Canyon National Parks,Vascular Plant,202,Not Native
+Shenandoah National Park,Amphibian,24,Native
+Shenandoah National Park,Bird,196,Native
+Shenandoah National Park,Bird,3,Not Native
+Shenandoah National Park,Fish,31,Native
+Shenandoah National Park,Fish,9,Not Native
+Shenandoah National Park,Insect,81,Native
+Shenandoah National Park,Insect,6,Not Native
+Shenandoah National Park,Mammal,55,Native
+Shenandoah National Park,Mammal,3,Not Native
+Shenandoah National Park,Reptile,30,Native
+Shenandoah National Park,Spider/Scorpion,4,Native
+Shenandoah National Park,Vascular Plant,1054,Native
+Shenandoah National Park,Vascular Plant,356,Not Native
+Theodore Roosevelt National Park,Amphibian,7,Native
+Theodore Roosevelt National Park,Bird,212,Native
+Theodore Roosevelt National Park,Bird,8,Not Native
+Theodore Roosevelt National Park,Crab/Lobster/Shrimp,1,Native
+Theodore Roosevelt National Park,Fish,22,Native
+Theodore Roosevelt National Park,Fish,3,Not Native
+Theodore Roosevelt National Park,Insect,3,Native
+Theodore Roosevelt National Park,Invertebrate,3,Native
+Theodore Roosevelt National Park,Mammal,60,Native
+Theodore Roosevelt National Park,Mammal,4,Not Native
+Theodore Roosevelt National Park,Reptile,12,Native
+Theodore Roosevelt National Park,Slug/Snail,2,Native
+Theodore Roosevelt National Park,Vascular Plant,536,Native
+Theodore Roosevelt National Park,Vascular Plant,82,Not Native
+Voyageurs National Park,Amphibian,10,Native
+Voyageurs National Park,Bird,231,Native
+Voyageurs National Park,Bird,4,Not Native
+Voyageurs National Park,Fish,54,Native
+Voyageurs National Park,Fish,4,Not Native
+Voyageurs National Park,Fungi,2,Native
+Voyageurs National Park,Insect,23,Native
+Voyageurs National Park,Invertebrate,7,Not Native
+Voyageurs National Park,Mammal,61,Native
+Voyageurs National Park,Mammal,2,Not Native
+Voyageurs National Park,Nonvascular Plant,9,Native
+Voyageurs National Park,Reptile,5,Native
+Voyageurs National Park,Vascular Plant,875,Native
+Voyageurs National Park,Vascular Plant,144,Not Native
+Wind Cave National Park,Amphibian,6,Native
+Wind Cave National Park,Bird,224,Native
+Wind Cave National Park,Bird,7,Not Native
+Wind Cave National Park,Fish,5,Native
+Wind Cave National Park,Fish,2,Not Native
+Wind Cave National Park,Insect,1,Not Native
+Wind Cave National Park,Mammal,66,Native
+Wind Cave National Park,Mammal,1,Not Native
+Wind Cave National Park,Reptile,12,Native
+Wind Cave National Park,Slug/Snail,17,Native
+Wind Cave National Park,Vascular Plant,592,Native
+Wind Cave National Park,Vascular Plant,102,Not Native
+Wrangell - St Elias National Park and Preserve,Amphibian,2,Native
+Wrangell - St Elias National Park and Preserve,Bird,207,Native
+Wrangell - St Elias National Park and Preserve,Bird,1,Not Native
+Wrangell - St Elias National Park and Preserve,Fish,90,Native
+Wrangell - St Elias National Park and Preserve,Insect,58,Native
+Wrangell - St Elias National Park and Preserve,Invertebrate,3,Native
+Wrangell - St Elias National Park and Preserve,Invertebrate,1,Not Native
+Wrangell - St Elias National Park and Preserve,Mammal,59,Native
+Wrangell - St Elias National Park and Preserve,Mammal,2,Not Native
+Wrangell - St Elias National Park and Preserve,Nonvascular Plant,7,Native
+Wrangell - St Elias National Park and Preserve,Reptile,1,Native
+Wrangell - St Elias National Park and Preserve,Slug/Snail,1,Native
+Wrangell - St Elias National Park and Preserve,Vascular Plant,1280,Native
+Wrangell - St Elias National Park and Preserve,Vascular Plant,77,Not Native
+Yellowstone National Park,Amphibian,5,Native
+Yellowstone National Park,Amphibian,1,Not Native
+Yellowstone National Park,Bird,298,Native
+Yellowstone National Park,Bird,14,Not Native
+Yellowstone National Park,Fish,13,Native
+Yellowstone National Park,Fish,5,Not Native
+Yellowstone National Park,Insect,473,Native
+Yellowstone National Park,Mammal,64,Native
+Yellowstone National Park,Mammal,2,Not Native
+Yellowstone National Park,Reptile,7,Native
+Yellowstone National Park,Reptile,1,Not Native
+Yellowstone National Park,Slug/Snail,2,Not Native
+Yellowstone National Park,Vascular Plant,1193,Native
+Yellowstone National Park,Vascular Plant,205,Not Native
+Yosemite National Park,Amphibian,14,Native
+Yosemite National Park,Amphibian,1,Not Native
+Yosemite National Park,Bird,245,Native
+Yosemite National Park,Bird,17,Not Native
+Yosemite National Park,Fish,3,Native
+Yosemite National Park,Fish,7,Not Native
+Yosemite National Park,Mammal,80,Native
+Yosemite National Park,Mammal,6,Not Native
+Yosemite National Park,Reptile,22,Native
+Yosemite National Park,Vascular Plant,1478,Native
+Yosemite National Park,Vascular Plant,176,Not Native
+Zion National Park,Amphibian,7,Native
+Zion National Park,Bird,298,Native
+Zion National Park,Bird,3,Not Native
+Zion National Park,Fish,6,Native
+Zion National Park,Fish,9,Not Native
+Zion National Park,Mammal,78,Native
+Zion National Park,Mammal,2,Not Native
+Zion National Park,Reptile,29,Native
+Zion National Park,Vascular Plant,1173,Native
+Zion National Park,Vascular Plant,189,Not Native
