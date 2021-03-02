@@ -49,3 +49,32 @@ CREATE TABLE visitation(
 	"2019" INT,
 	"Average" INT
 )
+
+SELECT * FROM nativeornot;
+
+DROP TABLE nativeornot;
+
+CREATE TABLE nativeornot
+AS
+SELECT "Park Name", "Category", count("Category"), "Nativeness"
+FROM species
+WHERE "Nativeness" = 'Native' 
+	OR "Nativeness" = 'Not Native' 
+Group by species."Park Name",species."Category",species."Nativeness"
+ORDER BY species."Park Name",species."Category",species."Nativeness";
+
+CREATE TABLE avgtoo
+AS
+SELECT parks."Park Name"
+	,parks."State"
+	,parks."ACRES"
+	,parks."Latitude"
+	,parks."Longitude"
+	,visitation."Average" as "Average Visitation"
+FROM parks
+INNER JOIN visitation
+ON parks."Park Name" = visitation."Park Name";
+
+SELECT * FROM avgtoo;
+
+DROP TABLE avgtoo;
