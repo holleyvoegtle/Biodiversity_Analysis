@@ -1,8 +1,0 @@
-Park Code,Park Name,State,Acres,Latitude,Longitude,Total_Species,Total_Native_Species,Total_NonNative_Species,NonNative_Ratio,Park_Visitors
-ACAD,Acadia National Park,ME,47390,44.35,-68.21,1709,1189,485,0.283791691,2889149.1
-ARCH,Arches National Park,UT,76519,38.68,-109.57,1048,939,108,0.103053435,1356430.3
-BADL,Badlands National Park,SD,242756,43.75,-102.5,1389,779,99,0.071274298,945142.7
-BIBE,Big Bend National Park,TX,801163,29.25,-103.25,2269,2108,112,0.049360952,379311.5
-BISC,Biscayne National Park,FL,172924,25.65,-80.08,1726,751,241,0.1396292,503466.2
-BLCA,Black Canyon of the Gunnison National Park,CO,32950,38.57,-107.72,1106,975,130,0.117540687,255753
-BRCA,Bryce Canyon National Park,UT,35835,37.57,-112.18,1286,1186,98,0.076205288,1885060.3
