@@ -9,4 +9,4 @@ Postgres is the database we intend to use.
 SciKitLearn is the ML library we'll be using to perform our linear regression. 
 
 ## Dashboard
-We plan on using Javascript to create an interactive dashboard (tentatively) utilizing a variety of the following: Bootstrap, CSS, Plotly.js, D3.json(). Additionally, we want to great some visuals via Tableau and use the Javascript API to include them in our dashboard. 
+We plan on using Javascript to create an interactive dashboard (tentatively) utilizing a variety of the following: Bootstrap, CSS, Plotly.js, D3.json(). Additionally, we want to create visualizations via Tableau and use the Javascript API to include them in our dashboard. 
