@@ -78,3 +78,31 @@ ON parks."Park Name" = visitation."Park Name";
 SELECT * FROM avgtoo;
 
 DROP TABLE avgtoo;
+
+SELECT nativeornot."Park Name"
+	,nativeornot."Category"
+	,nativeornot."count"
+	,nativeornot."Nativeness"
+	,avgtoo."ACRES"
+	,avgtoo."Average Visitation"
+FROM nativeornot
+JOIN avgtoo
+ON nativeornot."Park Name" = avgtoo."Park Name";
+
+SELECT * FROM parkcounts;
+
+DROP TABLE parkcounts;
+
+CREATE TABLE parkcounts
+AS
+SELECT "Park Name", count("Category"), "Nativeness"
+FROM species
+WHERE "Nativeness" = 'Native' 
+	OR "Nativeness" = 'Not Native' 
+Group by species."Park Name",species."Nativeness"
+ORDER BY species."Park Name",species."Nativeness";
+
+SELECT "Park Name",["Native"], ["Not Native"]
+from
+(Select "Park Name",
+)
