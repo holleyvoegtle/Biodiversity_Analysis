@@ -1,0 +1,552 @@
+[
+ {
+   "Park Name": "Acadia National Park",
+   "count": 1189,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "count": 485,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "count": 939,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "count": 108,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "count": 779,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "count": 99,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "count": 2108,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "count": 112,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "count": 751,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "count": 241,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "count": 975,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "count": 130,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "count": 1186,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "count": 98,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "count": 1103,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "count": 120,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "count": 1406,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "count": 158,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "count": 1398,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "count": 73,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "count": 1631,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "count": 233,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "count": 1156,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "count": 85,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "count": 1350,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "count": 69,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "count": 1598,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "count": 290,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "count": 1592,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "count": 127,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "count": 1030,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "count": 22,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "count": 363,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "count": 196,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "count": 1463,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "count": 495,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Gates Of The Arctic National Park and Preserve",
+   "count": 870,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "count": 1343,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "count": 71,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "count": 2180,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "count": 159,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "count": 2343,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "count": 225,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "count": 1582,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "count": 167,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "count": 1083,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "count": 85,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "count": 860,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "count": 44,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "count": 2632,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "count": 456,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "count": 1590,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "count": 51,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "count": 1342,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "count": 975,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "count": 1842,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "count": 1413,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "count": 1155,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "count": 263,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "count": 1189,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "count": 199,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "count": 1238,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "count": 64,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "count": 995,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "count": 18,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "count": 861,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "count": 33,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Kobuk Valley National Park",
+   "count": 662,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "count": 1395,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "count": 66,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "count": 1207,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "count": 89,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "count": 1816,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "count": 234,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "count": 1101,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "count": 130,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "count": 1129,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "count": 170,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "count": 2102,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "count": 249,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "count": 1618,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "count": 270,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "count": 789,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "count": 59,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "count": 871,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "count": 144,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "count": 1563,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "count": 368,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "count": 1570,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "count": 108,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "count": 1555,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "count": 114,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "count": 1731,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "count": 261,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "count": 1475,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "count": 377,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "count": 858,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "count": 97,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "count": 1270,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "count": 161,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "count": 922,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "count": 113,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "count": 1708,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "count": 81,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "count": 2053,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "count": 230,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "count": 1842,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "count": 207,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "count": 1591,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "count": 203,
+   "Nativeness": "Not Native"
+ }
+]
