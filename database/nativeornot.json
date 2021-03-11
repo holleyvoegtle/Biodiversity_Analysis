@@ -1,0 +1,4046 @@
+[
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Amphibian",
+   "count": 12,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Bird",
+   "count": 231,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Bird",
+   "count": 117,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Fish",
+   "count": 14,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Fish",
+   "count": 14,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Mammal",
+   "count": 41,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Mammal",
+   "count": 12,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Reptile",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Reptile",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Vascular Plant",
+   "count": 885,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Acadia National Park",
+   "Category": "Vascular Plant",
+   "count": 337,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Amphibian",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Bird",
+   "count": 201,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Fish",
+   "count": 8,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Mammal",
+   "count": 57,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Reptile",
+   "count": 20,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Vascular Plant",
+   "count": 651,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Arches National Park",
+   "Category": "Vascular Plant",
+   "count": 94,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Amphibian",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Bird",
+   "count": 226,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Fish",
+   "count": 17,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Insect",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Mammal",
+   "count": 60,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Reptile",
+   "count": 13,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Vascular Plant",
+   "count": 454,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Badlands National Park",
+   "Category": "Vascular Plant",
+   "count": 89,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Amphibian",
+   "count": 11,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Amphibian",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Bird",
+   "count": 409,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Fish",
+   "count": 41,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Fish",
+   "count": 9,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Mammal",
+   "count": 83,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Mammal",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Nonvascular Plant",
+   "count": 47,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Reptile",
+   "count": 58,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Reptile",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Vascular Plant",
+   "count": 1459,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Big Bend National Park",
+   "Category": "Vascular Plant",
+   "count": 89,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Amphibian",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Amphibian",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Bird",
+   "count": 196,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Bird",
+   "count": 34,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Fish",
+   "count": 108,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Insect",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Insect",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Invertebrate",
+   "count": 34,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Reptile",
+   "count": 33,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Reptile",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Vascular Plant",
+   "count": 367,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Biscayne National Park",
+   "Category": "Vascular Plant",
+   "count": 187,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Amphibian",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Bird",
+   "count": 171,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Fish",
+   "count": 8,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Mammal",
+   "count": 66,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Reptile",
+   "count": 11,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Vascular Plant",
+   "count": 718,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Black Canyon of the Gunnison National Park",
+   "Category": "Vascular Plant",
+   "count": 117,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Amphibian",
+   "count": 4,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Bird",
+   "count": 212,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Bird",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Mammal",
+   "count": 74,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Reptile",
+   "count": 13,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Vascular Plant",
+   "count": 883,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Bryce Canyon National Park",
+   "Category": "Vascular Plant",
+   "count": 92,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Amphibian",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Bird",
+   "count": 217,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Bird",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Fish",
+   "count": 9,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Fish",
+   "count": 24,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Mammal",
+   "count": 75,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Reptile",
+   "count": 22,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Vascular Plant",
+   "count": 774,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Canyonlands National Park",
+   "Category": "Vascular Plant",
+   "count": 91,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Amphibian",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Bird",
+   "count": 241,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Bird",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Mammal",
+   "count": 71,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Reptile",
+   "count": 21,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Vascular Plant",
+   "count": 1060,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Capitol Reef National Park",
+   "Category": "Vascular Plant",
+   "count": 143,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Amphibian",
+   "count": 13,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Bird",
+   "count": 361,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Bird",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Fish",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Mammal",
+   "count": 78,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Mammal",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Reptile",
+   "count": 62,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Vascular Plant",
+   "count": 882,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Carlsbad Caverns National Park",
+   "Category": "Vascular Plant",
+   "count": 59,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Algae",
+   "count": 61,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Amphibian",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Bird",
+   "count": 350,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Bird",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 11,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Fish",
+   "count": 259,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Insect",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Invertebrate",
+   "count": 195,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Invertebrate",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Mammal",
+   "count": 42,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Nonvascular Plant",
+   "count": 68,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Reptile",
+   "count": 11,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Slug/Snail",
+   "count": 33,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Spider/Scorpion",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Vascular Plant",
+   "count": 595,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Channel Islands National Park",
+   "Category": "Vascular Plant",
+   "count": 222,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Amphibian",
+   "count": 38,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Bird",
+   "count": 193,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Bird",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Fish",
+   "count": 62,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Fish",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Mammal",
+   "count": 36,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Reptile",
+   "count": 45,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Reptile",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Vascular Plant",
+   "count": 782,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Congaree National Park",
+   "Category": "Vascular Plant",
+   "count": 74,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Amphibian",
+   "count": 16,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Bird",
+   "count": 244,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Bird",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Fish",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Mammal",
+   "count": 77,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Nonvascular Plant",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Reptile",
+   "count": 12,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Vascular Plant",
+   "count": 998,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Crater Lake National Park",
+   "Category": "Vascular Plant",
+   "count": 55,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Amphibian",
+   "count": 24,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Bird",
+   "count": 239,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Bird",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Fish",
+   "count": 70,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Insect",
+   "count": 198,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Insect",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Invertebrate",
+   "count": 20,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Invertebrate",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Mammal",
+   "count": 46,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Reptile",
+   "count": 19,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Reptile",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Slug/Snail",
+   "count": 10,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Slug/Snail",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Spider/Scorpion",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Vascular Plant",
+   "count": 963,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Cuyahoga Valley National Park",
+   "Category": "Vascular Plant",
+   "count": 270,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Amphibian",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Amphibian",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Bird",
+   "count": 405,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Bird",
+   "count": 11,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Fish",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Fish",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Mammal",
+   "count": 56,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Mammal",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Reptile",
+   "count": 37,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Vascular Plant",
+   "count": 1083,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Death Valley National Park",
+   "Category": "Vascular Plant",
+   "count": 106,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "Category": "Bird",
+   "count": 178,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "Category": "Fish",
+   "count": 14,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "Category": "Mammal",
+   "count": 41,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 796,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Denali National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 22,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Bird",
+   "count": 210,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Bird",
+   "count": 71,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Invertebrate",
+   "count": 42,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Vascular Plant",
+   "count": 106,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Dry Tortugas National Park",
+   "Category": "Vascular Plant",
+   "count": 125,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Amphibian",
+   "count": 14,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Amphibian",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Bird",
+   "count": 282,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Bird",
+   "count": 83,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Fish",
+   "count": 314,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Fish",
+   "count": 18,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Mammal",
+   "count": 25,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Mammal",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Reptile",
+   "count": 50,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Reptile",
+   "count": 8,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Vascular Plant",
+   "count": 778,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Everglades National Park",
+   "Category": "Vascular Plant",
+   "count": 376,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Gates Of The Arctic National Park and Preserve",
+   "Category": "Bird",
+   "count": 134,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Gates Of The Arctic National Park and Preserve",
+   "Category": "Fish",
+   "count": 17,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Gates Of The Arctic National Park and Preserve",
+   "Category": "Mammal",
+   "count": 38,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Gates Of The Arctic National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 681,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Amphibian",
+   "count": 4,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Bird",
+   "count": 251,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Fish",
+   "count": 328,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Mammal",
+   "count": 56,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Nonvascular Plant",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 702,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier Bay National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 67,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Amphibian",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Bird",
+   "count": 272,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Bird",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Fish",
+   "count": 21,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Fish",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Fungi",
+   "count": 245,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Insect",
+   "count": 40,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Mammal",
+   "count": 65,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Nonvascular Plant",
+   "count": 397,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Reptile",
+   "count": 4,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Slug/Snail",
+   "count": 15,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Slug/Snail",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Vascular Plant",
+   "count": 1114,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Glacier National Park",
+   "Category": "Vascular Plant",
+   "count": 142,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Amphibian",
+   "count": 14,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Bird",
+   "count": 444,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Bird",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Fish",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Fish",
+   "count": 20,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Insect",
+   "count": 52,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Invertebrate",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Mammal",
+   "count": 95,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Reptile",
+   "count": 57,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Slug/Snail",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Spider/Scorpion",
+   "count": 126,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Vascular Plant",
+   "count": 1545,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Canyon National Park",
+   "Category": "Vascular Plant",
+   "count": 193,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Amphibian",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Bird",
+   "count": 243,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Bird",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Fish",
+   "count": 13,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Mammal",
+   "count": 63,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Reptile",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Vascular Plant",
+   "count": 1253,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Grand Teton National Park",
+   "Category": "Vascular Plant",
+   "count": 153,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Amphibian",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Bird",
+   "count": 215,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Bird",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Fish",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Insect",
+   "count": 12,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Mammal",
+   "count": 67,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Mammal",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Reptile",
+   "count": 18,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Vascular Plant",
+   "count": 761,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Basin National Park",
+   "Category": "Vascular Plant",
+   "count": 73,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Amphibian",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Bird",
+   "count": 230,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Bird",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Fish",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Insect",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Mammal",
+   "count": 60,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Nonvascular Plant",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Reptile",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 552,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Sand Dunes National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 39,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Amphibian",
+   "count": 57,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Bird",
+   "count": 239,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Bird",
+   "count": 16,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Fish",
+   "count": 83,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Fish",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Insect",
+   "count": 72,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Insect",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Invertebrate",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Mammal",
+   "count": 78,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Mammal",
+   "count": 9,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Nonvascular Plant",
+   "count": 480,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Reptile",
+   "count": 41,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Vascular Plant",
+   "count": 1580,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Great Smoky Mountains National Park",
+   "Category": "Vascular Plant",
+   "count": 424,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Amphibian",
+   "count": 10,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Bird",
+   "count": 271,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Bird",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 4,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Fungi",
+   "count": 65,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Insect",
+   "count": 79,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Invertebrate",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Mammal",
+   "count": 74,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Nonvascular Plant",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Reptile",
+   "count": 56,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Slug/Snail",
+   "count": 53,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Vascular Plant",
+   "count": 973,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Guadalupe Mountains National Park",
+   "Category": "Vascular Plant",
+   "count": 45,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Amphibian",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Bird",
+   "count": 21,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Bird",
+   "count": 23,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 11,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Fish",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Fungi",
+   "count": 54,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Insect",
+   "count": 588,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Insect",
+   "count": 369,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Invertebrate",
+   "count": 17,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Invertebrate",
+   "count": 19,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Mammal",
+   "count": 13,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Nonvascular Plant",
+   "count": 120,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Nonvascular Plant",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Reptile",
+   "count": 9,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Slug/Snail",
+   "count": 35,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Slug/Snail",
+   "count": 9,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Spider/Scorpion",
+   "count": 24,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Spider/Scorpion",
+   "count": 21,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Vascular Plant",
+   "count": 469,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Haleakala National Park",
+   "Category": "Vascular Plant",
+   "count": 497,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Amphibian",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Bird",
+   "count": 37,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Bird",
+   "count": 41,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 35,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 18,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Fish",
+   "count": 4,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Insect",
+   "count": 1018,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Insect",
+   "count": 410,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Invertebrate",
+   "count": 109,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Invertebrate",
+   "count": 55,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Mammal",
+   "count": 13,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Nonvascular Plant",
+   "count": 111,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Nonvascular Plant",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Reptile",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Reptile",
+   "count": 11,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Slug/Snail",
+   "count": 64,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Slug/Snail",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Spider/Scorpion",
+   "count": 39,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Spider/Scorpion",
+   "count": 61,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Vascular Plant",
+   "count": 421,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hawaii Volcanoes National Park",
+   "Category": "Vascular Plant",
+   "count": 791,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Amphibian",
+   "count": 22,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Bird",
+   "count": 92,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Bird",
+   "count": 25,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Fish",
+   "count": 47,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Fish",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Mammal",
+   "count": 31,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Reptile",
+   "count": 48,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Vascular Plant",
+   "count": 915,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Hot Springs National Park",
+   "Category": "Vascular Plant",
+   "count": 230,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Amphibian",
+   "count": 11,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Bird",
+   "count": 256,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 14,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Fish",
+   "count": 51,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Fish",
+   "count": 11,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Invertebrate",
+   "count": 21,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Mammal",
+   "count": 25,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Nonvascular Plant",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Reptile",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Vascular Plant",
+   "count": 807,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Isle Royale National Park",
+   "Category": "Vascular Plant",
+   "count": 183,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Amphibian",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Bird",
+   "count": 295,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Bird",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Fish",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Mammal",
+   "count": 58,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Mammal",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Reptile",
+   "count": 52,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Vascular Plant",
+   "count": 828,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Joshua Tree National Park",
+   "Category": "Vascular Plant",
+   "count": 53,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Bird",
+   "count": 201,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Bird",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Fish",
+   "count": 40,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Mammal",
+   "count": 47,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Nonvascular Plant",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 704,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Katmai National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 16,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Bird",
+   "count": 142,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Bird",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Fish",
+   "count": 40,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Mammal",
+   "count": 50,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Vascular Plant",
+   "count": 628,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kenai Fjords National Park",
+   "Category": "Vascular Plant",
+   "count": 29,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Kobuk Valley National Park",
+   "Category": "Bird",
+   "count": 125,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kobuk Valley National Park",
+   "Category": "Fish",
+   "count": 26,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kobuk Valley National Park",
+   "Category": "Mammal",
+   "count": 36,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Kobuk Valley National Park",
+   "Category": "Vascular Plant",
+   "count": 475,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Bird",
+   "count": 180,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Bird",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Fish",
+   "count": 54,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Fish",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Mammal",
+   "count": 48,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Nonvascular Plant",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 1112,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lake Clark National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 64,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Algae",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Amphibian",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Bird",
+   "count": 231,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Bird",
+   "count": 11,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 11,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Fish",
+   "count": 8,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Fungi",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Insect",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Invertebrate",
+   "count": 10,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Mammal",
+   "count": 74,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Nonvascular Plant",
+   "count": 14,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Reptile",
+   "count": 20,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Slug/Snail",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Vascular Plant",
+   "count": 828,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Lassen Volcanic National Park",
+   "Category": "Vascular Plant",
+   "count": 67,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Amphibian",
+   "count": 31,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Bird",
+   "count": 205,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Fish",
+   "count": 114,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Fish",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Insect",
+   "count": 19,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Mammal",
+   "count": 48,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Mammal",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Reptile",
+   "count": 41,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Vascular Plant",
+   "count": 1358,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mammoth Cave National Park",
+   "Category": "Vascular Plant",
+   "count": 222,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Amphibian",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Bird",
+   "count": 230,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Bird",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Mammal",
+   "count": 79,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Mammal",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Reptile",
+   "count": 19,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Vascular Plant",
+   "count": 766,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mesa Verde National Park",
+   "Category": "Vascular Plant",
+   "count": 118,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Amphibian",
+   "count": 16,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Bird",
+   "count": 179,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Bird",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Fish",
+   "count": 9,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Fungi",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Insect",
+   "count": 45,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Insect",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Mammal",
+   "count": 66,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Reptile",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Vascular Plant",
+   "count": 808,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Mount Rainier National Park",
+   "Category": "Vascular Plant",
+   "count": 152,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Amphibian",
+   "count": 12,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Bird",
+   "count": 222,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Fish",
+   "count": 29,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Fish",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Fungi",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Insect",
+   "count": 313,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Insect",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Mammal",
+   "count": 74,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Mammal",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Nonvascular Plant",
+   "count": 187,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Reptile",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Spider/Scorpion",
+   "count": 32,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Vascular Plant",
+   "count": 1223,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "North Cascades National Park",
+   "Category": "Vascular Plant",
+   "count": 232,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Amphibian",
+   "count": 13,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Bird",
+   "count": 304,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Bird",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Fish",
+   "count": 90,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Fish",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Insect",
+   "count": 77,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Insect",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Mammal",
+   "count": 62,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Mammal",
+   "count": 9,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Reptile",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Vascular Plant",
+   "count": 1066,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Olympic National Park",
+   "Category": "Vascular Plant",
+   "count": 248,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "Category": "Amphibian",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "Category": "Bird",
+   "count": 242,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "Category": "Bird",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "Category": "Mammal",
+   "count": 60,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "Category": "Reptile",
+   "count": 21,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "Category": "Vascular Plant",
+   "count": 459,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Petrified Forest National Park",
+   "Category": "Vascular Plant",
+   "count": 57,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Amphibian",
+   "count": 9,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Bird",
+   "count": 165,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Bird",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Fish",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Fish",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Insect",
+   "count": 67,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Insect",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Mammal",
+   "count": 54,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Mammal",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Reptile",
+   "count": 29,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Slug/Snail",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Vascular Plant",
+   "count": 544,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Pinnacles National Park",
+   "Category": "Vascular Plant",
+   "count": 127,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Amphibian",
+   "count": 22,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Bird",
+   "count": 272,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Bird",
+   "count": 51,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Fish",
+   "count": 186,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Fish",
+   "count": 23,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Mammal",
+   "count": 107,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Mammal",
+   "count": 8,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Reptile",
+   "count": 32,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Vascular Plant",
+   "count": 944,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Redwood National Park",
+   "Category": "Vascular Plant",
+   "count": 285,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Algae",
+   "count": 49,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Amphibian",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Bird",
+   "count": 268,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Fish",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Fish",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Fungi",
+   "count": 35,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Insect",
+   "count": 106,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Mammal",
+   "count": 68,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Nonvascular Plant",
+   "count": 63,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Reptile",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Slug/Snail",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Spider/Scorpion",
+   "count": 21,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Vascular Plant",
+   "count": 942,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Rocky Mountain National Park",
+   "Category": "Vascular Plant",
+   "count": 97,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Amphibian",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Bird",
+   "count": 228,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Bird",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Fungi",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Mammal",
+   "count": 72,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Reptile",
+   "count": 55,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Vascular Plant",
+   "count": 1191,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Saguaro National Park",
+   "Category": "Vascular Plant",
+   "count": 104,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Amphibian",
+   "count": 12,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Bird",
+   "count": 182,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Bird",
+   "count": 37,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Fish",
+   "count": 8,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Fish",
+   "count": 11,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Mammal",
+   "count": 77,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Mammal",
+   "count": 10,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Reptile",
+   "count": 24,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Vascular Plant",
+   "count": 1428,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Sequoia and Kings Canyon National Parks",
+   "Category": "Vascular Plant",
+   "count": 202,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Amphibian",
+   "count": 24,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Bird",
+   "count": 196,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Bird",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Fish",
+   "count": 31,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Fish",
+   "count": 9,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Insect",
+   "count": 81,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Insect",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Mammal",
+   "count": 55,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Mammal",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Reptile",
+   "count": 30,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Spider/Scorpion",
+   "count": 4,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Vascular Plant",
+   "count": 1054,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Shenandoah National Park",
+   "Category": "Vascular Plant",
+   "count": 356,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Amphibian",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Bird",
+   "count": 212,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Bird",
+   "count": 8,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Crab/Lobster/Shrimp",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Fish",
+   "count": 22,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Insect",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Invertebrate",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Mammal",
+   "count": 60,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Mammal",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Reptile",
+   "count": 12,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Slug/Snail",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Vascular Plant",
+   "count": 536,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Theodore Roosevelt National Park",
+   "Category": "Vascular Plant",
+   "count": 82,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Amphibian",
+   "count": 10,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Bird",
+   "count": 231,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Bird",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Fish",
+   "count": 54,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Fish",
+   "count": 4,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Fungi",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Insect",
+   "count": 23,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Invertebrate",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Mammal",
+   "count": 61,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Nonvascular Plant",
+   "count": 9,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Reptile",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Vascular Plant",
+   "count": 875,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Voyageurs National Park",
+   "Category": "Vascular Plant",
+   "count": 144,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Amphibian",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Bird",
+   "count": 224,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Bird",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Fish",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Fish",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Insect",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Mammal",
+   "count": 66,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Mammal",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Reptile",
+   "count": 12,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Slug/Snail",
+   "count": 17,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Vascular Plant",
+   "count": 592,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wind Cave National Park",
+   "Category": "Vascular Plant",
+   "count": 102,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Amphibian",
+   "count": 2,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Bird",
+   "count": 207,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Bird",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Fish",
+   "count": 90,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Insect",
+   "count": 58,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Invertebrate",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Invertebrate",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Mammal",
+   "count": 59,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Nonvascular Plant",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Slug/Snail",
+   "count": 1,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 1280,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Wrangell - St Elias National Park and Preserve",
+   "Category": "Vascular Plant",
+   "count": 77,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Amphibian",
+   "count": 5,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Bird",
+   "count": 298,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Bird",
+   "count": 14,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Fish",
+   "count": 13,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Fish",
+   "count": 5,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Insect",
+   "count": 473,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Mammal",
+   "count": 64,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Reptile",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Reptile",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Slug/Snail",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Vascular Plant",
+   "count": 1193,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yellowstone National Park",
+   "Category": "Vascular Plant",
+   "count": 205,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Amphibian",
+   "count": 14,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Amphibian",
+   "count": 1,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Bird",
+   "count": 245,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Bird",
+   "count": 17,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Fish",
+   "count": 3,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Fish",
+   "count": 7,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Mammal",
+   "count": 80,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Mammal",
+   "count": 6,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Reptile",
+   "count": 22,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Vascular Plant",
+   "count": 1478,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Yosemite National Park",
+   "Category": "Vascular Plant",
+   "count": 176,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Amphibian",
+   "count": 7,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Bird",
+   "count": 298,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Bird",
+   "count": 3,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Fish",
+   "count": 6,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Fish",
+   "count": 9,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Mammal",
+   "count": 78,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Mammal",
+   "count": 2,
+   "Nativeness": "Not Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Reptile",
+   "count": 29,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Vascular Plant",
+   "count": 1173,
+   "Nativeness": "Native"
+ },
+ {
+   "Park Name": "Zion National Park",
+   "Category": "Vascular Plant",
+   "count": 189,
+   "Nativeness": "Not Native"
+ }
+]

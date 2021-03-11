@@ -1,0 +1,8 @@
+national-parks.cowvdac3trtu.us-east-1.rds.amazonaws.com
+
+Park.csv: https://su-linterhell-nationalpark.s3.amazonaws.com/parks.csv
+
+Species.csv: https://su-linterhell-nationalpark.s3.amazonaws.com/species.csv
+
+Annual_Visitation: https://su-linterhell-nationalpark.s3.amazonaws.com/Annual_Visitation.csv
+
