@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maps and Graphs</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" 
+integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+crossorigin=""/>
+<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container"> 
+  <!-- The div that holds our map -->
+    <h2>National Parks acres</h2>
+    <hr>Map of National Parks
+    <div id="mapid" style="width:1000px;height: 600px; margin:auto"></div>
+    <br>
+
+
+    <div class = "row">
+      
+      <div class = "centered">
+        <img  src="parkAcreageForStates.png">
+      </div>  
+    </div>
+    <br>
+
+    <div class = "row">
+      
+      <div class = "centered">
+        <img  src="Categories_Species.png">
+      </div>  
+    </div>
+    <br>
+
+    <div class = "row">
+
+      <div class = "row">
+      
+        <div class = "centered">
+          <img  src="nativeVsNonNative.png">
+        </div>  
+      </div>
+      <br>
+      <div class = "row">
+      
+        <div class = "centered">
+          <img src="nonNative_and_Latitude.png">
+        </div>
+      </div>
+    </div>  
+    <div class = "row">
+      
+      <div class = "centered">
+        <img  src="Park_Visitation_NonNative_Species.png">
+      </div>  
+    </div>
+    <br>
+    
+
+   <div div class = "row">
+      
+      <div class = "centered">
+        <img src="ParkSize_TotalSpecies.png">
+      </div>
+    </div>
+  </div>
+
+  <div div class = "row">
+      
+    <div class = "centered">
+      <img src="scatterPlotExploration.png">
+    </div>
+  </div>
+</div>
+  
+    <!-- Leaflet JavaScript -->
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+crossorigin=""></script>
+<!-- API key -->
+
+<script type="text/javascript" src="config.js"></script>
+<!-- <script type="text/javascript" src="static/js/cities.js"></script>-->
+<!-- Our JavaScript -->
+<script type="text/javascript" src="script.js"></script>
+
+
+
+    
+</body>
+</html>

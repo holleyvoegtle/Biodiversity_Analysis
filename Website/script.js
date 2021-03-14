@@ -52,7 +52,7 @@ var siteLayer = L.layerGroup(siteMarkers)
 
 function getRadius(acres){
   var acreData = acres["ACRES"]
-  if (acreData>1000000)
+  if (acreData>2000000)
   return acreData/250000
   return acreData/50000
 }
@@ -60,16 +60,16 @@ function getRadius(acres){
   // This function determines the color of the marker based on the magnitude of the earthquake.
   function getColor(acres) {
     var acreData = acres["ACRES"]
-    if (acreData > 900000) {
+    if (acreData > 9000000) {
       return "#ea2c2c";
     }
-    if (acreData > 700000) {
+    if (acreData > 8000000) {
       return "#ea822c";
     }
-    if (acreData > 500000) {
+    if (acreData > 4000000) {
       return "#ee9c00";
     }
-    if (acreData > 300000) {
+    if (acreData > 200000) {
       return "#eecc00";
     }
     if (acreData > 100000) {
@@ -83,7 +83,7 @@ function getRadius(acres){
 let map = L.map('mapid', {
 	center: [40.7, -94.5],
 	zoom: 5,
-	layers: [satelliteStreets, siteLayer]
+	layers: [dark, siteLayer]
 });
 
 // Create a base layer that holds all three maps.
@@ -119,7 +119,7 @@ let legend = L.control({
 legend.onAdd = function() {
   let div = L.DomUtil.create("div", "info legend");
 
-  const magnitudes = [0, 1, 2, 3, 4, 5];
+  const acres = [0, 1, 2, 3, 4, 5];
   const colors = [
     "#98ee00",
     "#d4ee00",
@@ -130,11 +130,11 @@ legend.onAdd = function() {
   ];
 
 // Looping through our intervals to generate a label with a colored square for each interval.
-  for (var i = 0; i < magnitudes.length; i++) {
+  for (var i = 0; i < acres.length; i++) {
     console.log(colors[i]);
     div.innerHTML +=
       "<i style='background: " + colors[i] + "'></i> " +
-      magnitudes[i] + (magnitudes[i + 1] ? "&ndash;" + magnitudes[i + 1] + "<br>" : "+");
+      acres[i] + (acres[i + 1] ? "&ndash;" + acres[i + 1] + "<br>" : "+");
     }
     return div;
   };
