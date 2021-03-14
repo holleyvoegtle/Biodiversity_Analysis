@@ -1,3 +1,4 @@
+-- Create parks table from https://www.kaggle.com/nationalparkservice/park-biodiversity?select=parks.csv
 CREATE TABLE parks (
 	"Park Code" VARCHAR(4) PRIMARY KEY NOT NULL,
 	"Park Name" VARCHAR(120),
@@ -6,15 +7,12 @@ CREATE TABLE parks (
 	"Latitude" NUMERIC,
 	"Longitude" NUMERIC
 )
-
+-- housekeeping
 SELECT * FROM parks;
 
 DROP TABLE parks;
 
-SELECT * FROM species;
-
-DROP TABLE species;
-
+-- Create species table from https://www.kaggle.com/nationalparkservice/park-biodiversity?select=species.csv
 CREATE TABLE species (
 	"Species ID" VARCHAR(40) PRIMARY KEY NOT NULL,
 	"Park Name" VARCHAR(120),
@@ -31,10 +29,13 @@ CREATE TABLE species (
 	"Conservation Status" VARCHAR(100)
 );
 
-SELECT * FROM visitation;
+-- housekeeping
+SELECT * FROM species;
 
-DROP TABLE visitation;
+DROP TABLE species;
 
+-- create parks visitation table from https://irma.nps.gov/STATS/SSRSReports/National%20Reports/Annual%20Visitation%20By%20Park%20(1979%20-%20Last%20Calendar%20Year)
+-- this includes the number of visitors for each of the last 10 years as well as the average yearly visitors per park.
 CREATE TABLE visitation(
 	"Park Name" VARCHAR(100) PRIMARY KEY NOT NULL,
 	"2010" INT,
@@ -50,10 +51,12 @@ CREATE TABLE visitation(
 	"Average" INT
 )
 
-SELECT * FROM nativeornot;
+-- housekeeping
+SELECT * FROM visitation;
 
-DROP TABLE nativeornot;
+DROP TABLE visitation;
 
+-- create a table that separates the species categories in the park into native or not native 
 CREATE TABLE nativeornot
 AS
 SELECT "Park Name", "Category", count("Category"), "Nativeness"
@@ -63,6 +66,12 @@ WHERE "Nativeness" = 'Native'
 Group by species."Park Name",species."Category",species."Nativeness"
 ORDER BY species."Park Name",species."Category",species."Nativeness";
 
+-- housekeeping
+SELECT * FROM nativeornot;
+
+DROP TABLE nativeornot;
+
+-- Joining the parks and visitors table on park name to add the Average Visitation by park column
 CREATE TABLE avgtoo
 AS
 SELECT parks."Park Name"
@@ -75,10 +84,12 @@ FROM parks
 INNER JOIN visitation
 ON parks."Park Name" = visitation."Park Name";
 
+-- housekeeping
 SELECT * FROM avgtoo;
 
 DROP TABLE avgtoo;
 
+-- Explore if it is usefull to join the nativeornot table to include park acres and average visitation
 SELECT nativeornot."Park Name"
 	,nativeornot."Category"
 	,nativeornot."count"
@@ -89,10 +100,7 @@ FROM nativeornot
 JOIN avgtoo
 ON nativeornot."Park Name" = avgtoo."Park Name";
 
-SELECT * FROM parkcounts;
-
-DROP TABLE parkcounts;
-
+-- creat table to only include park name and total count of native and non-native species
 CREATE TABLE parkcounts
 AS
 SELECT "Park Name", count("Category"), "Nativeness"
@@ -102,7 +110,7 @@ WHERE "Nativeness" = 'Native'
 Group by species."Park Name",species."Nativeness"
 ORDER BY species."Park Name",species."Nativeness";
 
-SELECT "Park Name",["Native"], ["Not Native"]
-from
-(Select "Park Name",
-)
+-- housekeeping
+SELECT * FROM parkcounts;
+
+DROP TABLE parkcounts;
