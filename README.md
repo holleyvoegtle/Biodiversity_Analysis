@@ -25,7 +25,7 @@ The initial question we investigated was to see if the increase in visitors to a
 
 - Presentation: 
 
-A link to our final Google Slides presentation can be found here(insert google slides link here)
+	 - https://docs.google.com/presentation/d/13Fxq3_L9WtVU9MQCDZ9MckQbnxAd2lvvS9wCFA8NcTg/edit?usp=sharing
 
 - Software, Technologies, and Tools Utilized: 
 	- Amazon Web Services
