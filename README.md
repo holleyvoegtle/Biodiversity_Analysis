@@ -69,6 +69,14 @@ The three csv's that were acquired from kaggle and loaded into our PostgresRDS n
 	- The species_df, parks_df, and visitation_df were merged to create a final dataframe
 	- The final biodiversity_clean_df was loaded into our Postgres RDS to be used in the machine learning Jupyter Notebook.
 
+To explore the possibilities with the dataset, a pearson correlation matrix was generated and graphed using a seaborn heatmap. The matrix is displayed below: 
+
+![Correlation_Matrix](https://user-images.githubusercontent.com/64506842/111089495-8a33a000-8502-11eb-87b2-e32c7a2f383d.png)
+
+#### Model Selection:
+
+Our group wanted to investigate the relationship between the number of visitors that each National Park received and how many non-native (invasive) species were found there. We initially hypothesized that an increase in park visitation would also increase the number of non-native species found in the park.  We decided on a linear regression model with our X variable being the average number of park visitors over 10 years and our y variable being the total number of non-native species found in the park.  
+
 ## Summary
 As were are analyzing our data, we plan to present the information found through the use of a dashboard in Tableau as well as an interactive map to allows the user to see the location of the parks and the presence of native and non-native species. 
 
