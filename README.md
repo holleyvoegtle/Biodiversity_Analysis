@@ -73,9 +73,41 @@ To explore the possibilities with the dataset, a pearson correlation matrix was 
 
 ![Correlation_Matrix](https://user-images.githubusercontent.com/64506842/111089495-8a33a000-8502-11eb-87b2-e32c7a2f383d.png)
 
-#### Model Selection:
+#### Model:
 
 Our group wanted to investigate the relationship between the number of visitors that each National Park received and how many non-native (invasive) species were found there. We initially hypothesized that an increase in park visitation would also increase the number of non-native species found in the park.  We decided on a linear regression model with our X variable being the average number of park visitors over 10 years and our y variable being the total number of non-native species found in the park.  
+
+Our initial look at the data showed a scattered positive correlation with some potential outliers (circled in red):
+
+![Park_Visitation_NonNative_Species_withCircles](https://user-images.githubusercontent.com/64506842/111092614-e69bbd00-850c-11eb-81aa-643607489604.png)
+
+An initial linear regression model presented a positive correlation with an RMSE of 217.45 and R-squared value scored of 0.06.
+
+![AverageVisitors_NonNativeSpecies](https://user-images.githubusercontent.com/64506842/111092148-a38d1a00-850b-11eb-83e7-c6e2ae70051b.png)
+
+The Hawaii National Parks were removed from our linear regression due to the high number of invasive species that were outliers in the data. Upon removing the two Hawaii parks, the model's R-squared value increased to 0.24 with a RMSE of 100.59.
+
+![ParkVisitation_NonNatvie_Species_Hawaii_Removed](https://user-images.githubusercontent.com/64506842/111097804-975b8980-8518-11eb-9fcf-78c35bdff8e1.PNG)
+
+The third outlier circled in the image above was Great Smokey Mountain National Park (GSMNP) with a much higher visitaiton than the other parks in this dataset. We removed this park from the dataset and ran another linear regression model. With GSMNP removed, the R-squared value decreased to 0.14 and the RMSE increased to 101.52.
+
+![ParkVisitation_NonNatvie_Species_Hawaii_and_GSMNP_Removed](https://user-images.githubusercontent.com/64506842/111098059-1486fe80-8519-11eb-8571-9ab00454ca4f.PNG)
+
+
+Histograms of the data revealed a non-normal distribution for both of our X and y variables. We decided to do a logarithmic transformation on the variables before training and fitting the data with another linear regrssion model. 
+
+
+![Average_Visitors](https://user-images.githubusercontent.com/64506842/111091922-dd115580-850a-11eb-9610-939bb521feac.png) ![log_Average_Visitors](https://user-images.githubusercontent.com/64506842/111091930-e26ea000-850a-11eb-87e7-084912786bee.png)
+
+![NonNativeSpecies](https://user-images.githubusercontent.com/64506842/111091950-f2867f80-850a-11eb-89cb-71c329471468.png) ![log_NonNativeSpecies](https://user-images.githubusercontent.com/64506842/111091943-ec909e80-850a-11eb-8f23-3ace59c2d4ca.png)
+
+
+Linear regression models were re-run on the data with logarithmic transformations. In order to do the linear regression models, two Alaska National Parks had to be removed from the dataset that had zeros as their non-native species totals.
+
+With a logarithmic transformation done on both X and y variables, the R-squared score was calculated to be 0.16 with an RMSE of 0.75 which has an equivalient value of ?????
+
+![log_AverageVisitors_log_NonNative](https://user-images.githubusercontent.com/64506842/111098635-4c427600-851a-11eb-9091-97e57a6fa15d.png)
+
 
 ## Summary
 As were are analyzing our data, we plan to present the information found through the use of a dashboard in Tableau as well as an interactive map to allows the user to see the location of the parks and the presence of native and non-native species. 
