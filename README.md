@@ -25,7 +25,7 @@ The initial question we investigated was to see if the increase in visitors to a
 
 - Presentation: 
 
-	 - https://docs.google.com/presentation/d/13Fxq3_L9WtVU9MQCDZ9MckQbnxAd2lvvS9wCFA8NcTg/edit?usp=sharing
+	 - Link to Google Slides presentation: https://docs.google.com/presentation/d/1YHni61PifSc4BHbQYm2np0Qa2-DJjMPLpCFDcb7-aCA/edit
 
 - Software, Technologies, and Tools Utilized: 
 	- Amazon Web Services
@@ -46,7 +46,9 @@ As with most data that is open source, our data needed to be extracted, transfor
 
 ### Database:
 
-For our database, we utilized Amazon Web Services to host a Postgres Relational Database Service (RDS). Various tables were loaded into Postgres using SQL through PGAdmin including our final machine learning table.  This allowed all team members to access the database server through PGAdmin as tables were updated and added throughout the course of the project.
+For our database, we utilized Amazon Web Services to host a Postgres Relational Database Service (RDS). Various tables were loaded into Postgres using SQL through PGAdmin including our final machine learning table.  This allowed all team members to access the database server through PGAdmin as tables were updated and added throughout the course of the project. Some minor data cleaning was done to make the primary key column "Park Name" There was also a join done to add the average park visitation to the parks table  and create a table that separated all the categories per park into native or none native. The ERD is below.
+
+![ERD](https://github.com/holleyvoegtle/Final_group_project/blob/main/database/ERD.png)
 
 ### Machine Learning
 
@@ -108,9 +110,13 @@ With a logarithmic transformation done on both X and y variables, the R-squared 
 
 ![log_AverageVisitors_log_NonNative](https://user-images.githubusercontent.com/64506842/111098635-4c427600-851a-11eb-9091-97e57a6fa15d.png)
 
+## Website
+
+In order to create a dashboard that will allow us to easily display our findings we also created a website that is located here: ***PUT LINK TO WEBSITE HERE***
+This includes a summary of our question and analysis, an interactive map of all the national parks we looked and to display the number of native versus non-native species, and several different visualizations that we used during our analysis. 
+
 
 ## Summary
-As were are analyzing our data, we plan to present the information found through the use of a dashboard in Tableau as well as an interactive map to allows the user to see the location of the parks and the presence of native and non-native species. 
-
+ After all the data analysis and exploration there seems to be a positive correlation between the number of average park visitors and the number of invasive species although it is not a significant as we first thought. This indicates that the National Park Service might need to limit the number of visitors to the national parks or explore other ways to manage invasive species. If you would like more information on the National Park Services current efforets to limit invasive species those can be found here: https://www.nps.gov/articles/invasive-species.htm. 
 
 
