@@ -83,7 +83,7 @@ Our initial look at the data showed a scattered positive correlation with some p
 
 ![Park_Visitation_NonNative_Species_withCircles](https://user-images.githubusercontent.com/64506842/111092614-e69bbd00-850c-11eb-81aa-643607489604.png)
 
-An initial linear regression model presented a positive correlation with an RMSE of 217.45 and R-squared value scored of 0.06.
+An initial linear regression model presented a positive correlation with an R-squared value scored of 0.06 and an RMSE of 217.45.
 
 ![AverageVisitors_NonNativeSpecies](https://user-images.githubusercontent.com/64506842/111092148-a38d1a00-850b-11eb-83e7-c6e2ae70051b.png)
 
@@ -106,9 +106,11 @@ Histograms of the data revealed a non-normal distribution for both of our X and 
 
 Linear regression models were re-run on the data with logarithmic transformations. In order to do the linear regression models, two Alaska National Parks had to be removed from the dataset that had zeros as their non-native species totals.
 
-With a logarithmic transformation done on both X and y variables, the R-squared score was calculated to be 0.16 with an RMSE of 0.75 which has an equivalient value of ?????
+With a logarithmic transformation done on both X and y variables, the R-squared score was calculated to be 0.16 with an RMSE of 0.75.  
 
 ![log_AverageVisitors_log_NonNative](https://user-images.githubusercontent.com/64506842/111098635-4c427600-851a-11eb-9091-97e57a6fa15d.png)
+
+It was difficult to compare the RMSE value of the log-transformed model to the non-tranformed models due to the RMSE units being transformed. 
 
 ## Website
 
