@@ -82,8 +82,8 @@ function getRadius(acres){
 // Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
 	center: [40.7, -94.5],
-	zoom: 5,
-	layers: [dark, siteLayer]
+	zoom: 3,
+	layers: [satelliteStreets, siteLayer]
 });
 
 // Create a base layer that holds all three maps.
