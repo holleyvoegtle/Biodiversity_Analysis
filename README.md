@@ -110,7 +110,7 @@ With a logarithmic transformation done on both X and y variables, the R-squared 
 
 ![log_AverageVisitors_log_NonNative](https://user-images.githubusercontent.com/64506842/111098635-4c427600-851a-11eb-9091-97e57a6fa15d.png)
 
-It was difficult to compare the RMSE value of the log-transformed model to the non-tranformed models due to the RMSE units being transformed. 
+It was difficult to compare the RMSE value of the log-transformed model to the non-tranformed models due to the RMSE units being transformed. However if we use the expotential function and raise 10 to the power of 0.75 we can compare the RMSE scores. This would give our final log-log model an RMSE score of 5.62 which is the lowest RMSE score of the linear regression models ran on the data.
 
 ## Website
 
