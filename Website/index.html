@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
+  <!--<meta http-equiv="refresh" content="0; url=http://www.UCBerkDataFinal.com/" /> -->
 
   <title>Final Project</title>
 
@@ -41,16 +42,19 @@
       </div>
     </div>
   </nav>
-
-  <header class="bg-text-black mountains" >
+  
+  <header class="bg-text-black">
     
     <div class="container text-center" >
       <h1>Do visitors increase non-native species in National Parks?</h1>
       <p class="lead">Final Project for Data Analytics at UC Berekley</p>
     </div>
   </header>
-  <div style="background-image: url('https://images.unsplash.com/photo-1526182178-ecca0799acd8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=667&q=80')">
-  </div>
+  
+  
+  
+  
+  
     <section id="Overview">
     <div class="container">
       <div class="row">
@@ -59,21 +63,43 @@
           <p class="lead">For our group project, we are looking at biodiversity in National Parks. We came to a consensus to choose this data set because we are all passionate about the environment.
             The selected dataset contains three csv files- one including species data, another containing data on the parks themselves and the third including annual visitation to the parks. More specifically, the species csv has information on classification of certain animals, which parks they can be found in, and how common they are among other things. The parks csv contains information on coordinates and acreage of the parks as well as which respective states they are located in. We also cleaned up the data and created an additional csv that included native vs non-native species. Contributors:</p>
           <ul>
-            <li>Carmen Castenette</li>
+            <li>Carmen Castanette</li>
             <li>Kevin Green</li>
             <li>Olivia Hughes</li>
             <li>Su-Lin Terhell</li>
             <li>Holley Voegtle</li>
-          </ul>
+        <br>
+
+      <h4>Purpose</h4>
+      <p class="lead">The initial question we investigated was to see if the increase in visitors to a park would increase the non-native species found there. Further investigation of the data also looked to see if there were any correlations to parameters such as location of the park and the presence of non-native species, grouped categories such as mammals, reptiles, plants, etc, and finally a correlation matrix.</p>
+      <h4>Resources</h4>
+      <ul>
+        <li>Data:
+          <br>
+
+          https://www.kaggle.com/nationalparkservice/park-biodiversity/code
+          https://irma.nps.gov/STATS/SSRSReports/National%20Reports/Annual%20Visitation%20By%20Park%20(1979%20-%20Last%20Calendar%20Year)
+          </li>
+        <li>Presentaion:
+          <br>
+
+          https://docs.google.com/presentation/d/13Fxq3_L9WtVU9MQCDZ9MckQbnxAd2lvvS9wCFA8NcTg/edit?usp=sharing
+          </li>
+        <li>Software, Technologies, and Tools Utilized:
+          <br>
+          Amazon Web Services, PostgreSQL, Tableau, Python, JavaScript, HTML, CSS, Jupyter Notebooks, SciKit Learn, GitHub
+        </li>
+      </ul>
+    </ul>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="Analysis" class="bg-light">
+  <section id="Analysis" class="bg-secondary">
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 mx-auto">
+        <div class="col-lg-8 mx-auto" style="color:white">
           <h2>Analysis</h2>
           <p class="lead">As with most data that is open source, our data needed to be extracted, transformed, and loaded (ETL). A number of DataFrames were created in Jupyter notebook (Python) and the use of Postgres was utilized for these DataFrames. From there linear regressions were tested and graphs were created.
 
