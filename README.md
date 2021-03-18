@@ -123,6 +123,28 @@ Our dashboard provides an interactive map that utilizes GeoJson data to display 
 
 
 ## Summary
- After all the data analysis and exploration there seems to be a positive correlation between the number of average park visitors and the number of invasive species although it is not a significant as we first thought. This indicates that the National Park Service might need to limit the number of visitors to the national parks or explore other ways to manage invasive species. If you would like more information on the National Park Services current efforets to limit invasive species those can be found here: https://www.nps.gov/articles/invasive-species.htm. 
+Not native species can also be referred to as invasive species. An invasive species is any type of organism that is not native to an ecosystem. Invasive species pose a threat to parks & their native species by preying on native species, outcompeting native species, causing or carrying disease, preventing native species from reproducing and more. They are primarily introduced through human activities, unintentionally. The introduction of invaise species cause environmental and even economic harm. If left unmanaged, invasive species can cost billions of dollars to eradicate. For these reasons, national parks work tirelessly to evaluate, track and manage species found within parks to avoid the spread of invasive species. It is very important to analyze any and all trends that can share a relationship to the number or growth of invasive species.
+
+Through our analysis we found a small positive correlation between the number average park visitors and the number of invasive species found. However, this was significantly less of a relationship than we had thought. Given not native species are usually introduced to an ecosystem through human activity, we thought there would be a high correlation between number of not native species and average park visitors. 
+
+A small correlation could mean a number of things. Some plausible explanations to a small correlation include:
+- The parks are taking effective action to curb invasive species from being brought into parks
+- Our data isn't fully encompassing of the species found within parks
+- There are other factors outside of visitation and the variables in our dataset that can introduce or increase the number of invasive species 
+
+National park management on invasive species and other outside factors cannot be address by our existing dataset. However, there are some challenges within the quality or consistency of our existing dataset that can play into the small correlation found between the number of non native species recorded and average visition for parks. There were 119,248 species recorded over 55 national parks. However, over 25,000 entries were null. That equates to 21% of our data having null or blank entires. Additionally, over 7,000 entries were "unknown" species, meaning the observer did not know whether they were native or not native. The lack of or unclear entries in our dataset could have had an impact on the relationship we found between average visitation and the number of not native species found within national parks. 
+
+Other interesting insights gathered from our dataset include: 
+- Comparing visitation from 2010 and 2019, almost all parks saw an increase in visitation. Some parks saw their visitation increase by millions of visitors, such as Great Smoky Mountains National Park and the Rocky Mountain National Park
+- Alaska has the largest amount of acres of land dedicated to national parks. There are over 31 million acres of land reserved for national parks in Alaska
+- Majority of species recorded within national parks were plants, probably because they are easier to catch & find!
+- Not native species accounted for less than 10% of species recorded 
+
+We feel there is a lot more that can be explored outside of what our original datasets provided us to better understand the relationship between invasive species and park visitation. Our datasets alone do not paint a full picture around what variables impact the introduction & number of invasive species found within national parks. Reccomendations for future analysis & improvements include:
+- Improving on the existing dataset with less null & unknown values. This dataset was last updated 4 years ago, maybe National Park service has released an updated version with less unknown and null values 
+- Finding other national park datasets around invasive species to explore what other variables might have a relationship with the number of invasive species found
+- Searching for datasets around effective management at parks to discover if there is a low positive correlation due to effective invasive species management
+
+If you would like more information on the National Park Services current efforets to limit invasive species those can be found here: https://www.nps.gov/articles/invasive-species.htm. 
 
 
