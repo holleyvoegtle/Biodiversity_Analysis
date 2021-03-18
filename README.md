@@ -117,6 +117,10 @@ It was difficult to compare the RMSE value of the log-transformed model to the n
 In order to create a dashboard that will allow us to easily display our findings we also created a website that is located here: ***PUT LINK TO WEBSITE HERE***
 This includes a summary of our question and analysis, an interactive map of all the national parks we looked and to display the number of native versus non-native species, and several different visualizations that we used during our analysis. 
 
+Within the top right corner of our wesite, you can toggle between the "Overview" or "Maps/Graphs" pages. The "Overview Page" dives into the different steps of our project, and gives a general overview of insights we've gained through the machine learning. The "Maps/Graphs" page acts as our dashboard and provides deeper information around our dataet outside of the machine learning. 
+
+Our dashboard provides an interactive map that utilizes GeoJson data to display each national park throughout the US. Each park is displayed by a bubble that is scaled based on the acreage of the park. This map is interactive, giving users insight into park information when clicking on each bubble. Following the map, there are a handful of visualizations that were created in Tableau. These are displayed via the JavaScript API that runs through Tableau Public using embed codes. Lastly, there are visualizations from the machine learning aspect of our project that shows the correlation, or lack of correlation between non native species found in various national parks and other variables. 
+
 
 ## Summary
  After all the data analysis and exploration there seems to be a positive correlation between the number of average park visitors and the number of invasive species although it is not a significant as we first thought. This indicates that the National Park Service might need to limit the number of visitors to the national parks or explore other ways to manage invasive species. If you would like more information on the National Park Services current efforets to limit invasive species those can be found here: https://www.nps.gov/articles/invasive-species.htm. 
