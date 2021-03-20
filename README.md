@@ -25,7 +25,7 @@ The initial question we investigated was to see if the increase in visitors to a
 
 - Presentation: 
 
-	 - Link to Google Slides presentation: https://docs.google.com/presentation/d/1BNOGt-uTZLpHTejQecmTmZmRPNK2zzNwjiBMglPjRyY/edit#slide=id.p1
+	 - Link to Google Slides presentation: https://docs.google.com/presentation/d/1BNOGt-uTZLpHTejQecmTmZmRPNK2zzNwjiBMglPjRyY/edit?usp=sharing
 
 - Software, Technologies, and Tools Utilized: 
 	- Amazon Web Services
@@ -46,7 +46,7 @@ As with most data that is open source, our data needed to be extracted, transfor
 
 ### Database:
 
-For our database, we utilized Amazon Web Services to host a Postgres Relational Database Service (RDS). Various tables were loaded into Postgres using SQL through PGAdmin including our final machine learning table.  This allowed all team members to access the database server through PGAdmin as tables were updated and added throughout the course of the project. Some minor data cleaning was done to make the primary key column "Park Name" There was also a join done to add the average park visitation to the parks table  and create a table that separated all the categories per park into native or none native. The ERD is below.
+For our database, we utilized Amazon Web Services to host a Postgres Relational Database Service (RDS). Various tables were loaded into Postgres using SQL through PGAdmin including our final machine learning table.  This allowed all team members to access the database server through PGAdmin as tables were updated and added throughout the course of the project. Some minor data cleaning was done to make the primary key column "Park Name" There was also a join done to add the average park visitation to the parks table and create a table that separated all the categories per park into native or none native. The ERD is below.
 
 ![ERD](https://github.com/holleyvoegtle/Final_group_project/blob/main/database/ERD.png)
 
