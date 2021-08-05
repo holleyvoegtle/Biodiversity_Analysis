@@ -16,7 +16,7 @@ The parks csv contains information on coordinates and acreage of the parks as we
 We also cleaned up the data and created an additional csv that included native vs non-native species.
 
 ### Purpose 
-The initial question we investigated was to see if the increase in visitors to a park would increase the non-native species found there. Further investigation of the data also looked to see if there were any correlations to parameters such as location of the park and the presence of non-native species, grouped categories such as mammals, reptiles, plants, etc, and finally a correlation matrix. 
+The initial question we investigated was to see if the increase in visitors to a park would increase the non-native species found there. Further investigation of the data also looked to see if there were any correlations to parameters such as location of the park and the presence of non-native species, grouped categories such as mammals, reptiles, plants, insects, etc, and finally a correlation matrix. 
 
 ### Resources
 - Data: 
@@ -77,7 +77,7 @@ To explore the possibilities with the dataset, a pearson correlation matrix was 
 
 #### Model:
 
-Our group wanted to investigate the relationship between the number of visitors that each National Park received and how many non-native (invasive) species were found there. We initially hypothesized that an increase in park visitation would also increase the number of non-native species found in the park.  We decided on a linear regression model with our X variable being the average number of park visitors over 10 years and our y variable being the total number of non-native species found in the park.  
+Our group wanted to investigate the relationship between the number of visitors that each National Park received and the number of non-native (invasive) species were found there. We initially hypothesized that an increase in park visitation would also increase the number of non-native species found in the park.  We decided on a linear regression model with our X variable being the average number of park visitors over 10 years and our y variable being the total number of non-native species found in the park.  
 
 Our initial look at the data showed a scattered positive correlation with some potential outliers (circled in red):
 
